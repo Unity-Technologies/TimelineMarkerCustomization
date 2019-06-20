@@ -1,0 +1,6 @@
+﻿Annotation
+{
+    width:18px;
+    height:18px;
+    background-image: resource("Assets/5-Annotation/Editor/pencil.png");
+}

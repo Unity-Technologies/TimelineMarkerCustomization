@@ -1,4 +1,4 @@
-# TimelineMarkerCustomizationj
+# TimelineMarkerCustomization
 
 ![Alt text](Docs/jumpMarker.gif?raw=true "Title")
 
